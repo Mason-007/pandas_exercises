@@ -1,0 +1,206 @@
+car_ID,CarName,Clusters
+1,alfa-romero giulia,0
+2,alfa-romero stelvio,0
+3,alfa-romero Quadrifoglio,0
+4,audi 100 ls,1
+5,audi 100ls,1
+6,audi fox,0
+7,audi 100ls,4
+8,audi 5000,4
+9,audi 4000,2
+10,audi 5000s (diesel),6
+11,bmw 320i,0
+12,bmw 320i,4
+13,bmw x1,0
+14,bmw x3,4
+15,bmw z4,4
+16,bmw x4,4
+17,bmw x5,0
+18,bmw x3,4
+19,chevrolet impala,3
+20,chevrolet monte carlo,3
+21,chevrolet vega 2300,1
+22,dodge rampage,3
+23,dodge challenger se,3
+24,dodge d200,6
+25,dodge monaco (sw),1
+26,dodge colt hardtop,1
+27,dodge colt (sw),1
+28,dodge coronet custom,6
+29,dodge dart custom,1
+30,dodge coronet custom (sw),6
+31,honda civic,3
+32,honda civic cvcc,3
+33,honda civic,3
+34,honda accord cvcc,3
+35,honda civic cvcc,3
+36,honda accord lx,1
+37,honda civic 1500 gl,1
+38,honda accord,3
+39,honda civic 1300,3
+40,honda prelude,1
+41,honda accord,1
+42,honda civic,1
+43,honda civic (auto),3
+44,isuzu MU-X,1
+45,isuzu D-Max ,3
+46,isuzu D-Max V-Cross,1
+47,isuzu D-Max ,0
+48,jaguar xj,4
+49,jaguar xf,4
+50,jaguar xk,0
+51,maxda rx3,3
+52,maxda glc deluxe,3
+53,mazda rx2 coupe,3
+54,mazda rx-4,1
+55,mazda glc deluxe,1
+56,mazda 626,0
+57,mazda glc,0
+58,mazda rx-7 gs,0
+59,mazda glc 4,0
+60,mazda 626,3
+61,mazda glc custom l,1
+62,mazda glc custom,3
+63,mazda rx-4,1
+64,mazda glc deluxe,7
+65,mazda 626,1
+66,mazda glc,4
+67,mazda rx-7 gs,7
+68,buick electra 225 custom,5
+69,buick century luxus (sw),5
+70,buick century,5
+71,buick skyhawk,5
+72,buick opel isuzu deluxe,4
+73,buick skylark,0
+74,buick century special,4
+75,buick regal sport coupe (turbo),0
+76,mercury cougar,6
+77,mitsubishi mirage,3
+78,mitsubishi lancer,3
+79,mitsubishi outlander,3
+80,mitsubishi g4,6
+81,mitsubishi mirage g4,6
+82,mitsubishi g4,3
+83,mitsubishi outlander,6
+84,mitsubishi g4,6
+85,mitsubishi mirage g4,6
+86,mitsubishi montero,1
+87,mitsubishi pajero,1
+88,mitsubishi outlander,2
+89,mitsubishi mirage g4,1
+90,Nissan versa,3
+91,nissan gt-r,7
+92,nissan rogue,3
+93,nissan latio,1
+94,nissan titan,1
+95,nissan leaf,3
+96,nissan juke,3
+97,nissan latio,1
+98,nissan note,1
+99,nissan clipper,3
+100,nissan rogue,1
+101,nissan nv200,1
+102,nissan dayz,4
+103,nissan fuga,4
+104,nissan otti,4
+105,nissan teana,0
+106,nissan kicks,6
+107,nissan clipper,0
+108,peugeot 504,4
+109,peugeot 304,5
+110,peugeot 504 (sw),4
+111,peugeot 504,5
+112,peugeot 504,4
+113,peugeot 604sl,5
+114,peugeot 504,4
+115,peugeot 505s turbo diesel,5
+116,peugeot 504,4
+117,peugeot 504,5
+118,peugeot 604sl,2
+119,plymouth fury iii,3
+120,plymouth cricket,6
+121,plymouth fury iii,1
+122,plymouth satellite custom (sw),1
+123,plymouth fury gran sedan,1
+124,plymouth valiant,1
+125,plymouth duster,6
+126,porsche macan,0
+127,porcshce panamera,0
+128,porsche cayenne,0
+129,porsche boxter,0
+130,porsche cayenne,0
+131,renault 12tl,1
+132,renault 5 gtl,0
+133,saab 99e,0
+134,saab 99le,4
+135,saab 99le,0
+136,saab 99gle,4
+137,saab 99gle,6
+138,saab 99e,2
+139,subaru,3
+140,subaru dl,3
+141,subaru dl,3
+142,subaru,1
+143,subaru brz,1
+144,subaru baja,1
+145,subaru r1,1
+146,subaru r2,2
+147,subaru trezia,1
+148,subaru tribeca,1
+149,subaru dl,1
+150,subaru dl,2
+151,toyota corona mark ii,3
+152,toyota corona,3
+153,toyota corolla 1200,1
+154,toyota corona hardtop,1
+155,toyota corolla 1600 (sw),1
+156,toyota carina,1
+157,toyota mark ii,1
+158,toyota corolla 1200,1
+159,toyota corona,7
+160,toyota corolla,7
+161,toyota corona,1
+162,toyota corolla,1
+163,toyota mark ii,1
+164,toyota corolla liftback,3
+165,toyota corona,3
+166,toyota celica gt liftback,0
+167,toyota corolla tercel,0
+168,toyota corona liftback,0
+169,toyota corolla,0
+170,toyota starlet,0
+171,toyota tercel,0
+172,toyota corolla,0
+173,toyota cressida,0
+174,toyota corolla,1
+175,toyota celica gt,5
+176,toyota corona,1
+177,toyota corolla,1
+178,toyota mark ii,1
+179,toyota corolla liftback,0
+180,toyota corona,0
+181,toyota starlet,4
+182,toyouta tercel,4
+183,vokswagen rabbit,7
+184,volkswagen 1131 deluxe sedan,3
+185,volkswagen model 111,7
+186,volkswagen type 3,1
+187,volkswagen 411 (sw),1
+188,volkswagen super beetle,7
+189,volkswagen dasher,1
+190,vw dasher,0
+191,vw rabbit,0
+192,volkswagen rabbit,4
+193,volkswagen rabbit custom,7
+194,volkswagen dasher,1
+195,volvo 145e (sw),4
+196,volvo 144ea,4
+197,volvo 244dl,4
+198,volvo 245,4
+199,volvo 264gl,2
+200,volvo diesel,2
+201,volvo 145e (sw),4
+202,volvo 144ea,2
+203,volvo 244dl,4
+204,volvo 246,5
+205,volvo 264gl,2
